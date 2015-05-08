@@ -1,0 +1,7 @@
+A previous version of this directory contained several geojson files
+and a directory called "all_results". The new version of the directory
+allows us to save downloads from different dates.
+
+There are several directories named in "YYYY-MM-DD" format, an in each
+of them is several geojson files and a directory containing relatively
+raw forms of the original downloads.
